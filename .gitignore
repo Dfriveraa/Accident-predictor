@@ -361,5 +361,3 @@ cython_debug/
 .idea/misc.xml
 .idea/modules.xml
 .idea/vcs.xml
-Clean datasets/dataTotal.csv
-Clean datasets/mehh.xlsx
